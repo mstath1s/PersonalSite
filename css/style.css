@@ -1,0 +1,162 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,
+pre,a,abbr,address,cite,code,del,dfn,em,img,ins,q,small,strong,sub,
+sup,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,
+tfoot,thead,tr,th,
+td{border:0;margin:0;padding:0}
+article,aside,figure,figure img,figcaption,hgroup,footer,header,nav,section,video,object{display:block}
+a
+img{border:0}
+figure{position:relative}
+figure
+img{width:100%}
+.container{
+padding-left:20px;
+padding-right:20px}
+.row{
+width:100%;max-width:1040px;min-width:727px;margin:0
+auto;overflow:hidden}
+.onecol,
+.twocol,
+.threecol,
+.fourcol,
+.fivecol,
+.sixcol,
+.sevencol,
+.eightcol,
+.ninecol,
+.tencol,
+.elevencol{
+margin-right:1%;float:left;min-height:1px}
+.row
+.onecol{
+width:7.41%
+}
+.row
+.twocol{
+width:15.83%}
+.row
+.threecol{width:24.25%}
+.row
+.fourcol{width:32.65%}
+.row
+.fivecol{width:41.08%}
+.row
+.sixcol{width:49.5%}
+.row
+.sevencol{width:57.91%}
+.row
+.eightcol{width:66.33%}
+.row
+.ninecol{width:74.75%}
+.row
+.tencol{width:83.16%}
+.row
+.elevencol{width:91.58%}
+.row
+.twelvecol{width:100%;float:left}
+.last{margin-right:0px}
+img,object,embed{max-width:100%}
+img{height:auto}@media handheld, only screen and (max-width: 767px)
+{body{font-size:16px;-webkit-text-size-adjust:none}
+.row,
+body,
+.container
+{
+width:100%;min-width:0px;margin-left:0px;margin-right:0px;padding-left:0px;padding-right:0px}
+.row 
+.onecol,
+ .row
+  .twocol,
+   .row
+    .threecol, 
+    .row .fourcol,
+     .row .fivecol, 
+     .row .sixcol, 
+     .row .sevencol, 
+     .row .eightcol, 
+     .row .ninecol, 
+     .row .tencol,
+      .row .elevencol, 
+      .row
+.twelvecol
+{width:auto;float:none;margin-left:0px;margin-right:0px;padding-left:20px;padding-right:20px}}
+@font-face{
+font-family:'NeuzeitGroReg';
+src:url('/portfolio/css/webfonts/2473CB_3_0.eot');
+src:url('/portfolio/css/webfonts/2473CB_3_0.eot?#iefix') 
+format('embedded-opentype'),url('/portfolio/css/webfonts/2473CB_3_0.woff')
+ format('woff'),url('/portfolio/css/webfonts/2473CB_3_0.ttf')
+  format('truetype');
+  font-weight:normal
+  }
+  html{overflow-y:scroll}
+  body{font-size:11pt;font-family:"NeuzeitGroReg","Helvetica Neue","Helvetica","Arial",sans-serif;width:100%;height:100%;margin:0;padding:0;color:black;line-height:normal;background-color:#fff}
+  a{color:black;margin:0;padding:0;border:0}
+  a:link{text-decoration:none}
+  a:visited{text-decoration:none}
+  a:focus{text-decoration:underline}
+  a:hover{text-decoration:underline}
+  a:active{text-decoration:underline}
+  #main a:link,
+   #main a:visited{text-decoration:underline}
+   ul{list-style-position:inside;
+   list-style-type:square;margin-bottom:4px
+   ;margin-top:4px}li{margin-left:10px;margin-bottom:2px}
+   p{margin-top:2px;margin-bottom:2px}img{vertical-align:top}
+   hr{margin-top:10px;height:1px;background-color:#444;color:#444}
+   h1{color:black;text-align:center;font-size:48pt;margin-bottom:6px;text-transform:uppercase;font-weight:normal;letter-spacing:1px}
+   h2{text-align:center;font-size:18pt;text-transform:uppercase;margin-bottom:30px;font-weight:normal}
+   h3{text-transform:uppercase;margin-bottom:10px;margin-top:10px;font-weight:normal;font-size:11pt}
+   #navigation,h3,h2,h1{letter-spacing:1px}
+   .newsentry
+h2{margin-bottom:4px}
+.newsentry
+.date{padding-bottom:20px}
+.info,.description{margin-top:32px}
+.singleproject
+h2{margin-bottom:5px}
+.container{}.relative{position:relative}
+.text-align-left{text-align:left}
+.align-right{float:right;text-align:right}
+.align-left{float:left;text-align:left}
+#topbar{height:22px;background:black;color:white;margin:0;padding-top:8px;position:fixed;top:0;width:100%;z-index:100;cursor:pointer;line-height:15px}
+#topbar
+a{color:white}
+#header{margin-top:84px;margin-bottom:28px;text-align:center}#navigation{text-transform:uppercase}#main{text-align:center}.longtext{text-align:left}.longtext img,
+.longtext
+iframe{display:block;margin:20px
+auto}.longtext
+iframe.inline{display:inline;margin:0}.newsentry .fluid-width-video-wrapper+p{padding-top:20px}#footer{position:relative;left:0;right:0;margin-bottom:0px;margin-top:40px;height:24px;padding-top:6px;padding-bottom:40px;text-align:center}.picture-gallery>div{padding-top:25px;padding-bottom:25px}.picture-gallery{margin:20px
+auto 0}.grid{}.grid>div{margin-bottom:10px}.newsentry{position:relative;margin-bottom:80px}.newsentry
+p{margin-top:16px;margin-bottom:16px}.anchor-offset{position:absolute;top:-75px}ul.newsticker{list-style-type:none}.newsticker{height:54px;overflow:hidden;position:relative}.newsticker
+li{height:54px;position:relative}.newsticker.hover .prev,.newsticker.hover
+.next{display:inline}.newsticker .prev, .newsticker
+.next{display:none}@media only screen and (min-device-width: 768px) and (max-device-width: 1024px), only screen  and (max-device-width: 767px){.newsticker .next, .newsticker .prev, .newsticker
+.newslabel{display:none !important}}.grid-element{position:relative;width:auto;height:100%;margin:0
+auto}.grid-overlay{position:absolute;left:0px;right:0px;bottom:0px;width:100%;height:70px;padding-top:15px;background:black;color:white;text-align:center}span.linkexpand{position:absolute;width:100%;height:100%;left:0;top:0;z-index:1;background-image:url('/portfolio/css/images/empty.gif');cursor:pointer}img.portrait{float:left;margin-right:20px;margin-bottom:20px;margin-top:0px}@media handheld, only screen and (max-width: 767px){img.portrait{float:none;margin-left:auto;margin-right:auto}}.grid-overlay
+h2{margin:0;padding:0}.grid-overlay{visibility:hidden}.grid-element:focus .grid-overlay,
+.grid-element:hover .grid-overlay,
+.grid-element:active .grid-overlay{visibility:visible}@media handheld, only screen and (max-width: 950px) and (min-width: 767px){.grid-overlay
+h2{font-size:11pt}.grid-overlay{height:50px;padding-top:15px}}@media handheld, only screen and (max-width: 767px){body{}h1{font-size:22pt;margin-bottom:30px}#navigation{margin-bottom:30px}.newsticker{margin-bottom:30px}.grid-element{width:372px}.singleproject
+.projectcontent{width:482px;margin:0
+auto}.align-right{right:20px}.picture-gallery>div{padding-top:10px;padding-bottom:10px}.grid>div{margin-bottom:20px}}@media handheld, only screen and (max-width: 410px){.grid-element{width:100%}.grid-overlay{padding-top:10px;height:45px}.grid-overlay
+h2{font-size:11pt}}@media handheld, only screen and (max-width: 522px){.singleproject
+.projectcontent{width:100%;left:20px;right:20px}}@media only screen and (-webkit-min-device-pixel-ratio: 2){}#browser-detection{background:#FFFFE5;color:#333;position:fixed;_position:absolute;padding:10px
+15px;font-size:13px;font-family:"Trebuchet MS","Segoe UI",Arial,Tahoma,sans-serif;border-radius:5px;border:1px
+solid #D6D6C1;-moz-border-radius:5px;width:700px;z-index:1001}#browser-detection
+P{margin:0;padding:0;background:transparent;line-height:135%;width:auto;float:none;border:none;text-align:left}#browser-detection P.bd-title{padding-top:0px;font-size:25px;line-height:100%}#browser-detection P.bd-notice{padding-bottom:5px;padding-top:5px}#browser-detection SPAN.bd-highlight{color:#B50E0E}#browser-detection A#browser-detection-close{width:15px;height:15px;outline:none;position:absolute;right:10px;top:10px;text-indent:-500em;line-height:100%;background:url(/portfolio/css/images/close.gif) no-repeat center center}#browser-detection A#browser-detection-close:HOVER{background-color:#F5F5DC}#browser-detection UL.bd-browsers-list, #browser-detection UL.bd-browsers-list LI,
+#browser-detection UL.bd-skip-buttons, #browser-detection UL.bd-skip-buttons
+LI{padding:0;margin:0;float:left;list-style:none}#browser-detection UL.bd-browsers-list{clear:both;margin-top:3px;padding:7px
+0;border-top:1px solid #F5F5DC;border-bottom:1px solid #F5F5DC;width:100%}#browser-detection UL.bd-browsers-list
+LI{text-align:left}#browser-detection UL.bd-browsers-list LI
+A{width:60px;height:55px;display:block;color:#666;padding:10px
+10px 0 65px;text-decoration:none}#browser-detection UL.bd-browsers-list LI A:HOVER{text-decoration:underline}#browser-detection UL.bd-browsers-list LI.firefox
+A{background:url(/portfolio/css/images/firefox.gif) no-repeat left top}#browser-detection UL.bd-browsers-list LI.chrome
+A{background:url(/portfolio/css/images/chrome.gif) no-repeat left top}#browser-detection UL.bd-browsers-list LI.safari
+A{background:url(/portfolio/css/images/safari.gif) no-repeat left top}#browser-detection UL.bd-browsers-list LI.opera
+A{background:url(/portfolio/css/images/opera.gif) no-repeat left top}#browser-detection UL.bd-browsers-list LI.msie
+A{background:url(/portfolio/css/images/msie.gif) no-repeat left top}#browser-detection UL.bd-skip-buttons{margin-top:10px}#browser-detection UL.bd-skip-buttons
+LI{display:inline;margin-right:10px}#browser-detection UL.bd-skip-buttons LI
+BUTTON{font-size:13px}#browser-detection DIV.bd-poweredby{font-size:9px;position:absolute;bottom:10px;right:10px;font-style:italic}#browser-detection DIV.bd-poweredby, #browser-detection DIV.bd-poweredby
+A{color:#AAA}#browser-detection DIV.bd-poweredby
+A{text-decoration:underline}#browser-detection DIV.bd-poweredby A:HOVER{text-decoration:none}#black_overlay{position:fixed;top:0%;left:0%;width:100%;height:100%;background-color:black;z-index:1000;-moz-opacity:0.8;opacity:.80;filter:alpha(opacity=80)}

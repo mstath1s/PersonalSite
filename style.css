@@ -1,0 +1,72 @@
+body{background-color:#fff}
+
+
+
+@media screen and (max-width: 768px){
+
+body{
+background: fuchsia;
+
+}
+
+.boxi {
+background-color: blue;
+width: 100%;
+
+
+
+}
+.leftimage img{
+
+float: none;
+
+}
+
+
+.uppers .boxi img{
+background-color: yellow;
+width:100%;
+}
+
+
+}
+
+.uppers{
+background-color: yellow;
+width:100%;
+}
+
+
+.boxi {
+background-color: blue;
+width: 100%;
+display: inline;
+
+
+}
+
+
+.boxi img{
+width: 49%;
+display: inline;
+
+
+}
+ .leftimage img{
+
+
+
+
+min-width: 300px;
+}
+
+
+ .rightimage img{
+
+
+min-width: 300px;
+
+
+
+
+}
